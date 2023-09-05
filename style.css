@@ -1,0 +1,1029 @@
+html,body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: combria;
+}
+/*.loader_bg
+{
+    position: fixed;
+    z-index: 999999;
+    background: #fff;
+    width: 100%;
+    height: 100%;
+}
+.loader
+{
+    border: 1px solid transparent;
+    width: 250px;
+    border-radius: 50%;
+    height: 250px;
+    margin: 50px;
+    position: absolute;
+    top:calc(50vh-75px);
+    left:calc(50vw-75px);
+}*/
+
+
+
+
+
+.navbar
+{
+    background-color: rgb(24, 24, 185);
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    border-bottom: solid 1px white;
+}
+.navbar .navbar-head img
+{
+    width:18%;
+    padding: 10px;
+}
+
+
+
+
+.banner1
+{
+    background-image: url(images/3.jpg);
+    background-size: cover;
+    height: 600px;
+    box-sizing: border-box;
+}
+.banner 
+{
+    position: absolute;
+}
+.banner h2
+{
+    position: relative;
+    margin-left: 450px;
+    top: 30px;
+    font-size: 50px;
+    color: white;
+}
+.banner p
+{
+    position: relative;
+    margin-left:520px;
+    font-size: 50px;
+    color:orange;
+    text-align: center;
+    border-right: solid 3px white;
+    right:30px;
+}
+.banner a
+{
+    position: relative;
+    margin-left:580px;
+    font-size: 30px;
+    color:white;
+    text-align: center;
+    border: solid 3px white;
+    text-decoration: none;
+    padding: 10px;
+    background: rgb(6, 132, 216);
+    border-radius: 30px;
+}
+.bot-list ul
+{
+    list-style-type: none;
+    margin-left: 0px;
+    margin-top: 80px;
+    position: absolute;
+    top: 70%;
+}
+.bot-list ul li
+{
+    display: inline;
+    margin-left: 180px;
+   
+    
+}
+.boxin h5
+{
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+}
+.boxin h3 
+{
+    text-align: center;
+    font-size: 35px;
+    
+}
+.boxin h3 span
+{
+    color: orange;
+    padding-left: 20px;
+}
+.box1 .box
+{
+   width: 30%;
+   height: 325px;
+   border: solid 1px lightgray;
+   float: left;
+   margin-left: 30px;
+}
+.box1 .box iframe
+{
+   margin-left: 10px;
+   margin-top: 10px;
+}
+.box1 .box a
+{
+    text-decoration: none;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-size: 25px;
+    color: black;
+}
+.box1 .box a:hover
+{
+    border-bottom: solid 2px blueviolet;
+}
+/*********************************************************/
+.boxi h3
+{
+    text-align: center;
+    color: orange;
+    font-size: 50px;
+    margin-top: 50px;
+    position: relative;
+    top: 30px;
+}
+.boxi h3 span
+{
+    color: rgb(49, 158, 221);
+    padding-left: 10px;
+}
+.box2 .box1
+{
+   width: 30%;
+   height: 335px;
+   border: solid 1px gray;
+   float: left;
+   margin-left: 30px;
+   border-radius: 7px 7px 0px 0px;
+}
+.box2 .box1 img
+{
+   width: 100%;
+   height: 200px;
+   border-radius: 7px 7px 0px 0px;
+}
+.box2 .box1 a
+{
+    text-decoration: none;
+    margin-left: 20px;
+}
+.box2 .box1 h2,h4
+{
+    margin-left: 20px;
+}
+.fa-map-marker 
+{
+    color: orange;
+    padding-left: 0px;
+    font-size: 20px;
+}
+.fa-clock-o
+{
+    color: orange;
+    padding-left: 15px;
+}
+.fa-calendar
+{
+    color: rgb(57, 146, 219);
+}
+.imar h1
+{
+    margin-top: 50px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    font-size: 50px;
+}
+.imar h1 span
+{
+    color: rgb(0, 174, 255);
+    padding: 15px;
+}
+.box3 .box6 img
+{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.box3 .box4 img
+{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+.box3 .box5 img
+{
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+/*************************************************************/
+.box10
+{
+    position: relative;
+    top: 20px;
+}
+.box10 .box7 img
+{
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.box10 .box8 img
+{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+.box10 .box9 img
+{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 15px;
+    border-radius: 10px;
+}
+/**************************************************/
+.back
+{
+    background: rgb(23, 23, 241);
+    width: 100%;
+    height: 600px;
+    margin-top: 700px;
+}
+.boad-1 p
+{
+    position: relative;
+    top: 15px;
+    color: white;
+    text-align: center;
+}
+.boad-1 h1
+{
+    margin-left: 80px;
+    color: white;
+    font-size: 40px;
+}
+.boad-1 h1 span
+{
+    color: orange;
+}
+.boad-1 h2
+{
+    margin-left: 540px;
+    color: orange;
+    font-size: 30px;
+}
+
+.selec
+{
+    float: left;
+    margin-left: 200px;
+    margin-top: 30px;
+    color: black;
+    
+}
+.selec select
+{
+    padding: 30px;
+    height: 20px;
+    color: black;
+    background:white;
+    
+}
+.selec option
+{
+    color: black;
+}
+.pat
+{
+    color: black;
+}
+/***********************************************************************/
+.last-12 p,h1
+{
+    text-align: center;
+    color: orange;
+}
+.last-12 h1
+{
+    color: orange;
+}
+.boat-1 
+{
+    display: flex;
+    margin-left: 25px;
+}
+.boat-1 .bbbbb
+{
+    width:300px ;
+    height:320px ;
+    border: none;
+    border-radius: 10px;
+    margin-left: 20px;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+.boat-1 .bbbbb img
+{
+    width:250px ;
+    height:150px ;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.boat-1 .bbbbb p
+{
+    text-align: center;
+    
+}
+.boat-1 .bbbbb h2
+{
+    margin-left: 20px;
+}
+.boat-1 .bbbbb:hover
+{
+    border-bottom: solid 4px  rgb(13, 167, 228);
+}
+.aaaaaa
+{
+    background-image: url("images/discount.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    margin-top: 50px;
+}
+.aaaaaa .lo
+{
+    margin-left: 250px;
+    margin-top: 150px;
+    width:300px ;
+    height:200px ;
+    position: relative;
+    float: left;
+    
+}
+.aaaaaa .cccc 
+{
+    margin-left: 0px;
+    position: relative;
+    top: 130px;
+    float: left;
+    font-size: 25px;
+    color: white;
+}
+.aaaaaa button
+{
+    padding: 20px;
+    border-radius: 40px;
+    font-size: 20px;
+    border: none;
+}
+/***********************************************************************/
+.we2l p
+{
+    color: orange;
+}
+.we2l h1
+{
+    color: black;
+}
+.long
+{
+    display: flex;
+    margin-left: 40px;
+}
+.long .long1
+{
+    width:30% ;
+    height: 470px;
+    border: solid 1px gray;
+    border-radius:  15px 0px 15px 0px;
+    margin-left: 20px;
+}
+.long .long1 img
+{
+    width:100% ;
+    height: 300px;
+    border-radius:  15px 0px 15px 0px;
+   
+}
+.long .long1 a
+{
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+.long .long1 a:hover
+{
+    color: rgb(142, 214, 243);
+}
+.long .long1 p
+{
+    margin-left: 15px;
+   
+}
+.boar12
+{
+    border-bottom:solid 1px gray ;
+    width: 90%;
+    margin-left: 15px;
+}
+.long .long1 h5 
+{
+    margin-left: 25px;
+}
+.long .long1 span
+{
+    float: right;
+    margin-right: 25px;
+}
+.long .long1 span button
+{
+    padding-right: 25px;
+    border-color:rgb(54, 178, 228) ;
+    border-radius: 40px;
+    padding:10px;
+    color: rgb(59, 179, 226);
+}
+/********************************************************************/
+.we32l
+{
+    margin-top: 40px;
+}
+.we32l p
+{
+    color: orange;
+    
+}
+.we32l h1 span{
+   color: rgb(74, 190, 236);
+}
+.wel345 
+{
+    display: flex;
+    margin-left: 30px;
+}
+.wel345 .qwer
+{
+    width: 200px;
+    height: 130px;
+    border: solid 1px gray;
+    margin-left: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px ;
+}
+.wel345 .qwer img
+{
+    width: 150px;
+    height: 110px;
+}
+/*********************************************************/
+.come
+{
+    background: lightgray;
+    width:100% ;
+    height: 600px;
+    margin-top: 50px;
+    display: flex;
+    margin-left: 50px;
+}
+.come1 .werw 
+{
+    
+    margin-top: 60px;
+}
+.come1 .werw
+{
+    width:30% ;
+    height: 500px;
+    margin-left: 30px;
+    float: left;
+}
+.come1 .werw img
+{
+    width:30% ;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+.come1 .werw .fa-star
+{
+    color: rgb(252, 252, 6);
+}
+.cla h2 
+{
+    margin-left: 40px;
+    font-size: 30px;
+}
+.cla p 
+{
+    margin-left: 40px;
+    
+}
+.cla input 
+{
+    float: right;
+    position: relative;
+    right: 90px;
+    bottom: 70px;
+    height: 50px;
+    margin-right: 15px;
+    border-radius: 10px;
+    width: 300px;
+    border-color: rgb(117, 196, 241);
+}
+.cla button
+{
+    float: right;
+    position: relative;
+    right: 90px;
+    bottom: 70px;
+    height: 55px;
+    margin-right: 15px;
+    border-radius: 50px;
+    border:none ;
+    width: 200px;
+    background-color: rgb(0, 153, 255);
+    color: white;
+}
+
+/**************************************************/
+
+.footter
+{
+    background-image: url("images/2440024.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    
+}
+table 
+{
+    border-collapse:collapse ;
+    margin-left: 60px;
+}
+th
+{
+    color: orange;
+    font-size: 30px;
+}
+th,td{
+    /* border: solid 1px #dddddd; */
+    text-align: left;
+    padding-left: 90px;
+    padding-top: 35px;
+}
+td{
+    color: white; 
+    font-size: 18px;
+}
+td:hover
+{
+    color: orange;
+}
+.logse .nn 
+{
+   width:40px ;
+   height:50px ;
+   margin-left: 30px;
+   margin-top: 80px;
+}
+/********************************************/
+.fooet
+{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+.fooet .zzz
+{
+    width: 30%;
+    height: 80px;
+    border: solid 1px white;
+}
+.fooet .zzz h4{
+    color: white;
+    margin-left: 70px;
+    position: relative;
+    bottom: 40px;
+    
+}
+.fooet .zzz  span img
+{
+    width:40px ;
+    height:30px ;
+    position: relative;
+    top: 20px;
+    
+}
+/****************DECSTOP**********************/
+@media(min-width:600px)
+{
+    .navbar-items ul
+    {
+        list-style-type: none;
+        position: absolute;
+        right: 80px;
+        top: 40px;
+    }
+    .navbar-items ul li 
+    {
+        display: inline;
+        padding: 20px;
+      
+        
+    }
+    .navbar-items ul li a
+    {
+        text-decoration: none;
+        color: white;
+    }
+    .navbar-items .btn-search
+    {
+        float:right;
+        position: relative;
+        bottom: 10px;
+        left: 30px;
+        
+       
+    }
+    .navbar-items .btn-search input
+    {
+        height: 40px;
+        padding: 20px;
+        border: solid 1px rgb(45, 222, 228);
+        border-radius: 5px;
+    }
+    .navbar-items .btn-search input:focus
+    {
+        outline: none;
+    }
+    .nav-btn
+    {
+        display: none;
+    }
+}
+/****************MOBILE**********************/
+@media(max-width:600px)
+{
+    .navbar .navbar-head img
+    {
+        width: 50%;
+        padding: 0px;
+    }
+    .navbar-items ul
+    {
+        list-style-type: none;
+        padding: 0px;
+    }
+    .navbar-items ul li
+    {
+        padding-top: 15px; 
+        border-bottom: solid 2px white; 
+        margin-top: 20px; 
+    }
+    .navbar-items ul li a
+    {
+        text-decoration: none;
+        color: white;
+    }
+    .btn-search
+    {
+        position: absolute;
+        right: 60px;
+        top: 23px;
+    }
+    .btn-search input
+    {
+        width:100px ;
+        height:40px ;
+    }
+    .nav-btn
+    {
+        position: absolute;
+        right: 10px;
+        top: 25px;
+        border: none;
+        background: none;
+        border: solid 1px white;
+        padding: 6px;
+    }
+    .nav-btn span
+    {
+        border: solid 1px white;
+        width: 25px;
+        display: block;
+        
+    }
+    .nav-btn span:not(:last-child)
+    {
+        margin-bottom: 6px;
+    }
+    .hide
+    {
+        display: none;
+    }
+    .banner h2
+    {
+        margin-left: 15px;
+    }
+    .banner p
+    {
+        position: relative;
+        margin-left: 50px;
+        text-align: center;
+        right: 30px;
+    }
+    .banner a
+    {
+        position: relative;
+        margin-left: 150px;
+    }
+    .bot-list ul
+    {
+        display: none;
+    }
+    .box1 .box
+    {
+        float: none;
+        width: 83%;
+        margin-top: 10px;
+    }
+    .boxi h3
+    {
+        font-size: 40px;
+        position: relative;
+        bottom: 20px;
+    }
+    .box2 .box1
+    {
+        float: none;
+        width: 85%;
+        margin-top: 20px;
+    }
+    .box3 .box6  img
+    {
+        float: none;
+        width: 85%;
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    .box3 .box4 img
+    {
+        float: none;
+        width: 85%;
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    .box3 .box5  img
+    {
+        float: none;
+        width: 85%;
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    .box .box4 img
+    {
+        float: none;
+        width: 85%;
+        margin-top: 25px;
+        margin-left: 10px;
+    }
+    .box .box5 img
+    {
+        float: none;
+        width: 85%;
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    .box10 .box7 img
+    {
+        float: none;
+        width: 85%;
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    .box10 .box8 img
+    {
+        float: none;
+        width: 85%;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+    .box10 .box9 img
+    {
+        float: none;
+        width: 85%;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+    .back
+    {
+        width: 100%;
+        margin-top: 40px;
+        height: 100%;
+    }
+    .back .boad-1
+    {
+        text-align: center;
+    }
+    .boad-1 h1
+    {
+        margin-left: 0px;
+        font-size: 30px;
+    }
+    .boad-1 h2
+    {
+        margin-left: 0px;
+    }
+    .selec
+    {
+        float: none;
+        margin-left: 0px;
+    }
+    .boat-1 
+    {
+        flex-wrap: wrap;
+        margin-left: 15px;
+        width: 90%;
+    }
+    .boat-1 .bbbbb
+    {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .aaaaaa
+    {
+        background-image: url("images/discount.jpg");
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        margin-top: 50px;
+    }
+    .aaaaaa .lo
+    {
+        margin-left: 110px;
+        margin-top: 60px;
+        width:200px ;
+        height:150px ;
+        position: relative;
+        float: left;
+        
+    }
+   .aaaaaa .cccc 
+    {
+        margin-left: 30px;
+        position: relative;
+        top: 30px;
+        float: left;
+        font-size: 15px;
+        color: white;
+    }
+    .long
+    {
+        flex-wrap: wrap;
+        margin-left: 0px;
+    }
+    .long .long1
+    {
+        width: 90%;
+        margin-top: 20px;
+    }
+    .wel345 
+    {
+        flex-wrap: wrap;
+        margin-left: 20px;
+    }
+    .wel345 .qwer
+    {
+        width: 200px;
+        height: 130px;
+        border: solid 1px gray;
+        margin-left: 15px;
+        border-radius: 10px;
+        box-shadow: 5px 5px 5px 5px ;
+        margin-top: 10px;
+    }
+    .come1 .werw 
+    {
+        
+        margin-top: 30px;
+    }
+    .come1 .werw
+    {
+        width:90% ;
+        height: 500px;
+        margin-left: 30px;
+        float: none;
+    }
+    .cla h2 
+    {
+        margin-left: 40px;
+        font-size: 30px;
+    }
+    .cla p 
+    {
+        margin-left: 50px;
+        
+    }
+    .cla input 
+    {
+        float: none;
+        position: relative;
+        left: 50px;
+        margin-top: 10px;
+        bottom: 70px;
+        height: 50px;
+        
+        border-radius: 10px;
+        width: 300px;
+        border-color: rgb(117, 196, 241);
+    }
+    .cla button
+    {
+        float: none;
+        position: relative;
+        left:  100px;
+        top: 120px;
+        height: 55px;
+        margin-right: 15px;
+        border-radius: 50px;
+        border:none ;
+        width: 200px;
+        background-color: rgb(0, 153, 255);
+        color: white;
+    }
+    .footter
+    {
+        background-image: url("images/2440024.jpg");
+        background-size: cover;
+        background-position: center;
+        height: 900px;
+        
+    }
+    table
+    {
+        margin-left: 0px;
+    }
+    th
+    {
+        color: orange;
+        font-size: 18px;
+    }
+    th,td{
+        /* border: solid 1px #dddddd; */
+        text-align: left;
+        padding-left: 10px;
+        padding-top: 35px;
+    }
+    td{
+        color: white; 
+        font-size: 15px;
+    }
+    td:hover
+    {
+        color: orange;
+    }
+    .logse .nn 
+    {
+    width:40px ;
+    height:50px ;
+    margin-left: 20px;
+    margin-top: 80px;
+    }
+    .fooet
+    {
+        flex-wrap: wrap;
+        margin-left: 20px;
+    }
+    .fooet .zzz
+    {
+        width: 90%;
+        height: 80px;
+        border: solid 1px white;
+        margin-top: 15px;
+        
+    }
+}
